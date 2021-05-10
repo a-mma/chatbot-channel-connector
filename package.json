@@ -116,7 +116,7 @@
     "jsonschema": "^1.1.1",
     "jsonwebtoken": "^8.1.0",
     "kue": "^0.11.6",
-    "lodash": "^4.17.2",
+    "lodash": "^4.17.21",
     "login-with-amazon": "^0.0.3",
     "md-recast": "^0.0.2",
     "mocha": "^5.1.0",

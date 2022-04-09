@@ -120,7 +120,7 @@
     "login-with-amazon": "^0.0.3",
     "md-recast": "^0.0.2",
     "mocha": "^5.1.0",
-    "moment": "^2.18.1",
+    "moment": "^2.29.2",
     "mongoose": "^4.6.8",
     "morgan": "^1.7.0",
     "node-sparky": "^4.0.7",

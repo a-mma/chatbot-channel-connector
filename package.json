@@ -106,7 +106,7 @@
     "crypto": "^0.0.3",
     "eslint": "^3.10.2",
     "eslint-config-zavatta": "^4.2.0",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "fbgraph": "^1.4.1",
     "file-type": "^4.3.0",
     "filter-object": "^2.1.0",

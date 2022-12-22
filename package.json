@@ -114,7 +114,7 @@
     "intercom-client": "^2.9.1",
     "is_js": "^0.9.0",
     "jsonschema": "^1.1.1",
-    "jsonwebtoken": "^8.1.0",
+    "jsonwebtoken": "^9.0.0",
     "kue": "^0.11.6",
     "lodash": "^4.17.2",
     "login-with-amazon": "^0.0.3",
